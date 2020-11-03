@@ -1,0 +1,24 @@
+/* Css properties */
+h1{
+    color:  #A4A400;
+    font-family: sans-serif;
+    text-align: center;
+    font-size:  22pt;
+      }
+.jumbotron{color: #A4A400; 
+         background-color: #F0F0F0 ;}
+   a {
+             color: #A4A400;
+         }
+body { 
+   enable-background: accumulate;
+
+   font-family: Georgia, 'Times New Roman', Times, serif;
+
+    }
+.container p{
+   color: black;
+   background-color:rgba(240, 221, 116, 0.747);
+  
+           }
+.bg-dark{ font-family: monospace;}
